@@ -264,7 +264,3 @@ D:\My Career\ASP.NET\MyProjects\Store\Store\bin\Debug\net7.0\Microsoft.AspNetCor
 D:\My Career\ASP.NET\MyProjects\Store\Store\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
 D:\My Career\ASP.NET\MyProjects\Store\Store\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
 D:\My Career\ASP.NET\MyProjects\Store\Store\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
-D:\My Career\ASP.NET\MyProjects\Store\Store\bin\Debug\net7.0\FubarCoder.RestSharp.Portable.Core.dll
-D:\My Career\ASP.NET\MyProjects\Store\Store\bin\Debug\net7.0\FubarCoder.RestSharp.Portable.HttpClient.dll
-D:\My Career\ASP.NET\MyProjects\Store\Store\bin\Debug\net7.0\JsonSubTypes.dll
-D:\My Career\ASP.NET\MyProjects\Store\Store\bin\Debug\net7.0\sib_api_v3_sdk.dll

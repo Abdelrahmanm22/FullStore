@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using sib_api_v3_sdk.Client;
+//using sib_api_v3_sdk.Client;
 using Store.Contexts;
 using Store.MappingProfiles;
 using Store.Models;
