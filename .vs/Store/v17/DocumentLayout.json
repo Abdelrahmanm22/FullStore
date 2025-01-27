@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\contexts\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\contexts\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\views\\account\\password.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\views\\account\\password.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|d:\\my career\\asp.net\\myprojects\\store\\store\\models\\passwordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D83B6DA-887E-475D-890B-864223257355}|Store\\Store.csproj|solutionrelative:store\\models\\passwordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Store\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Store\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwDEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T07:46:00.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Contexts\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "Store\\Contexts\\DatabaseInitializer.cs",
+              "ToolTip": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Contexts\\DatabaseInitializer.cs",
+              "RelativeToolTip": "Store\\Contexts\\DatabaseInitializer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T07:44:43.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Store\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Store\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T07:43:36.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Store\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Store\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T07:39:40.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Store\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Store\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T07:13:42.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\appsettings.json",
+              "RelativeDocumentMoniker": "Store\\appsettings.json",
+              "ToolTip": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\appsettings.json",
+              "RelativeToolTip": "Store\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T07:07:16.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Program.cs",
+              "RelativeDocumentMoniker": "Store\\Program.cs",
+              "ToolTip": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Program.cs",
+              "RelativeToolTip": "Store\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T07:05:46.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Password.cshtml",
+              "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Views\\Account\\Password.cshtml",
+              "RelativeDocumentMoniker": "Store\\Views\\Account\\Password.cshtml",
+              "ToolTip": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Views\\Account\\Password.cshtml",
+              "RelativeToolTip": "Store\\Views\\Account\\Password.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAIBJwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T19:25:31.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PasswordViewModel.cs",
+              "DocumentMoniker": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Models\\PasswordViewModel.cs",
+              "RelativeDocumentMoniker": "Store\\Models\\PasswordViewModel.cs",
+              "ToolTip": "D:\\My Career\\ASP.NET\\MyProjects\\Store\\Store\\Models\\PasswordViewModel.cs",
+              "RelativeToolTip": "Store\\Models\\PasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:20:50.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
