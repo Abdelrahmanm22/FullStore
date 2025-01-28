@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Store.Contexts;
 using Store.MappingProfiles;
 using Store.Models;
+using Store.Services;
 
 namespace Store
 {

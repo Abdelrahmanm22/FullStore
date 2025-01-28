@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Store.Models;
 
-namespace Store.Contexts
+namespace Store.Services
 {
     public class DatabaseInitializer
     {
-        public static async Task SeedDataAsync(UserManager<User>? _userManager,RoleManager<IdentityRole>? _roleManager)
+        public static async Task SeedDataAsync(UserManager<User>? _userManager, RoleManager<IdentityRole>? _roleManager)
         {
             if (_userManager == null || _roleManager == null)
             {
@@ -41,7 +41,8 @@ namespace Store.Contexts
             ///Now I want create admin user
             //Check if we have at least one admin user or not
             var adminUser = await _userManager.GetUsersInRoleAsync("admin");
-            if (adminUser.Any()) {
+            if (adminUser.Any())
+            {
                 Console.WriteLine("Admin user already exists => exit");
                 return;
             }
@@ -56,13 +57,14 @@ namespace Store.Contexts
             };
             string initialPassword = "admin123";
 
-            var result = await _userManager.CreateAsync(user,initialPassword);
-            if (result.Succeeded) {
+            var result = await _userManager.CreateAsync(user, initialPassword);
+            if (result.Succeeded)
+            {
                 //set the user role
                 await _userManager.AddToRoleAsync(user, "admin");
                 Console.WriteLine("Admin user created successfully! Please update the initial password!");
-                Console.WriteLine("Email: "+user.Email);
-                Console.WriteLine("Initial Password: "+initialPassword);
+                Console.WriteLine("Email: " + user.Email);
+                Console.WriteLine("Initial Password: " + initialPassword);
             }
         }
     }
